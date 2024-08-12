@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chutinon
-- 👀 I’m interested in cybersecurity, machine learning, and full-stack development
+- 👀 I’m interested in cybersecurity, machine learning, system engineering, and full-stack development
 - 🌱 I’m currently learning how to code :D
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me: chutinonp@yahoo.com
